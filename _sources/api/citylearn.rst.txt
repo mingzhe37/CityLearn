@@ -13,6 +13,7 @@ Subpackages
    :maxdepth: 4
 
    citylearn.agents
+   citylearn.end_use_load_profiles
 
 Submodules
 ----------
@@ -23,13 +24,16 @@ Submodules
    citylearn.base
    citylearn.building
    citylearn.citylearn
-   citylearn.citylearn_pettingzoo
    citylearn.cost_function
    citylearn.data
+   citylearn.dynamics
+   citylearn.electric_vehicle
+   citylearn.electric_vehicle_charger
    citylearn.energy_model
+   citylearn.occupant
+   citylearn.power_outage
    citylearn.preprocessing
-   citylearn.rendering
    citylearn.reward_function
    citylearn.rl
-   citylearn.simulator
    citylearn.utilities
+   citylearn.wrappers
